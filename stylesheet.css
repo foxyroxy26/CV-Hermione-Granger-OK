@@ -1,0 +1,25 @@
+h1 {
+    font-family: Verdana;
+    color: #E23F03
+}
+p {
+    font-family: Verdana;
+}
+.col-md-12 {
+     background-color: #E23F03;
+}
+body {
+    background-color: #E2AE03;
+}
+h2 {
+    color: #E23F03
+}
+h3 {
+    color: #E23F03
+}
+img { 
+    border: 2px solid black;
+    height: 250px;
+    margin-left : -100px;
+    margin-top: 50px;
+ }
